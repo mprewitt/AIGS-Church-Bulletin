@@ -1,0 +1,18 @@
+# Contributing to AIGS Church Bulletin
+
+Thanks for your interest in this project!
+
+More detailed contributor guidelines are planned. But for now, please follow these guidelines:
+
+- Respect the established file hierarchy
+  - Templates in the document root
+  - Color palette files (Adobe .ase format) in `/Colors`
+  - Fonts in `/Document fonts`
+  - Graphics in `/Links` (please note that the Links folder contains subfolders with related collections of artwork)
+  - Exported previews and PDFs in `/Preview`
+
+The InDesign file format being used is the most recent version of Adobe InDesign CC. There is also an .idml export, which will be updated periodically, and can be opened in older versions of InDesign.
+
+Eventually if we end up with multiple design styles, we may bundle them in folders specific to each design style. For now, please save all templates in the document root. If you want to explore another design style, please save your template with a new name. The project maintainer reserves the right to rename files to fit with the project standards.
+
+If you have questions about this project, please contact the maintainer, Michael Prewitt, at michael.prewitt@gmail.com. Or if you want to report a bug or other problem, please use the Issues tab to report a new issue.
